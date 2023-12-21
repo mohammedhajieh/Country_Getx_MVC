@@ -1,6 +1,7 @@
 
 # Country_Getx_MVC
 All the world's governorate and city countries all language 
+Exapmple:
 ![dc822ef0-e12d-43f6-9afd-c43d58360161](https://github.com/mohammedhajieh/Country_Getx_MVC/assets/106439542/4c824ab6-6e83-4e97-a6b6-21011e25ad02)
 ![bd7c670b-7c10-477e-9b5a-96c50cba79cd](https://github.com/mohammedhajieh/Country_Getx_MVC/assets/106439542/c952c662-2a29-437e-ae93-5cc5539dabc9)
 ![97699d47-68be-4f29-91d9-62d4f15cdf68](https://github.com/mohammedhajieh/Country_Getx_MVC/assets/106439542/74a71fdf-b7fa-4312-8237-874dbd5a8cff)
